@@ -1,0 +1,26 @@
+﻿@model IEnumerable<OurWebsite.Models.Photo>
+@{ ViewBag.Title = "Gallery"; }
+<link href="~/Content/photos.css" rel="stylesheet" />
+<script src="~/Scripts/_photos.js"></script>
+
+<div class="row-fluid">
+    <div class="span2">
+        <div>
+            @foreach (var image in Model)
+            {
+                <div class="photo-div">
+                    <img alt="@image.Description" src="@Url.Content(@image.Path)" runat=server class="photo" onclick="display(this);" />
+                    
+                </div>
+                <p>@Url.Content(@image.Path)</p>
+
+            }
+             
+        </div>
+    </div>
+</div>
+<div id="divimage" class="modal">
+    <img class="modal-content" id="modalimg">
+    <div id="caption"></div>
+</div>
+<p></p>

@@ -40,3 +40,45 @@ C:\Users\Bruger\Desktop\GitHub\Internet Technologies\InternetTechnology\OurWebsi
 C:\Users\Bruger\Desktop\GitHub\Internet Technologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Desktop\GitHub\Internet Technologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.dll
 C:\Users\Bruger\Desktop\GitHub\Internet Technologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.pdb
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\ApplicationInsights.config
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\OurWebsite.dll.config
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\OurWebsite.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\OurWebsite.pdb
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Helpers.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Mvc.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Optimization.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Razor.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\WebGrease.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Helpers.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Mvc.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Optimization.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Razor.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.pdb

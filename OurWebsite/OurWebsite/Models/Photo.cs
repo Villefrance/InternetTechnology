@@ -5,12 +5,10 @@ using System.Web;
 
 namespace OurWebsite.Models
 {
-    public class Persona
+    public class Photo
     {
-        public string Education { get; set; }
-        public int Age { get; set; }
-        public string Name { get; set; }
         public string Description { get; set; }
+        public string Path { get; set; }
 
     }
 }
