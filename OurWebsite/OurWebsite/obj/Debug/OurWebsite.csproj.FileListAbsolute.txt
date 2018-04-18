@@ -82,3 +82,46 @@ C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsit
 C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.dll
 C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.pdb
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\ApplicationInsights.config
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\OurWebsite.dll.config
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\OurWebsite.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\OurWebsite.pdb
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Antlr3.Runtime.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.Web.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Newtonsoft.Json.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Helpers.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Mvc.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Optimization.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Razor.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Deployment.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Razor.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\WebGrease.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Helpers.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Mvc.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Optimization.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.Razor.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Deployment.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\System.Web.WebPages.Razor.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Antlr3.Runtime.pdb
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Newtonsoft.Json.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\bin\Microsoft.AI.Web.xml
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csprojResolveAssemblyReference.cache
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csproj.CoreCompileInputs.cache
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csproj.CopyComplete
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.dll
+E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.pdb

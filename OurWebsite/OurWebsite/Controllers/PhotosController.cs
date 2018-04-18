@@ -12,10 +12,7 @@ namespace OurWebsite.Controllers
         // GET: Photos
         public ActionResult Gallery()
         {
-
-            string folder = AppDomain.CurrentDomain.BaseDirectory + @"Photos\";
-
-            Console.Write(folder);
+            string folder = "~/Photos/";
             
             return View(new PhotoModel(folder));
         }

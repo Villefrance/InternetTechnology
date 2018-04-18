@@ -11,13 +11,12 @@ namespace OurWebsite.Models
 
         public PhotoModel(string folder)
         {
-            di = new System.IO.DirectoryInfo(folder);
+            string path = HttpContext.Current.Server.MapPath(folder);
+            di = new System.IO.DirectoryInfo(path);
 
             foreach (var file in di.EnumerateFiles("*.jpg", System.IO.SearchOption.TopDirectoryOnly))
             {
-                string _path = String.Concat(folder, file.Name);
-                string _absolute = _path.Replace(@"\", "/");
-                var p = new Photo() { Path = _absolute, Description = System.IO.Path.GetFileNameWithoutExtension(file.Name) };
+                var p = new Photo() { Path = String.Concat(folder, file.Name), Description = System.IO.Path.GetFileNameWithoutExtension(file.Name) };
                 Add(p);
             }
         }
