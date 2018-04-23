@@ -7,7 +7,6 @@
     <title>Edit</title>
 </head>
     <body>  
-    @Html.ActionLink("Admin", "Index", "Admin")
     <form id="form1" runat="server">  
         <asp:Repeater ID="Repeater1" runat="server">  
             <ItemTemplate>  
