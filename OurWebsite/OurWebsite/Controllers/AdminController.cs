@@ -9,14 +9,10 @@ namespace OurWebsite.Controllers
     public class AdminController : Controller
     {
         // GET: Admin
-        public ActionResult UploadPicture()
+        public ActionResult Index()
         {
             return View();
         }
 
-        public ActionResult ChangePersona()
-        {
-            return View();
-        }
     }
 }

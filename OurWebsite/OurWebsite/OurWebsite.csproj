@@ -147,6 +147,13 @@
     <Compile Include="Controllers\NewsletterController.cs" />
     <Compile Include="Controllers\PersonasController.cs" />
     <Compile Include="Controllers\PhotosController.cs" />
+    <Compile Include="Forms\EditPersonas.aspx.cs">
+      <DependentUpon>EditPersonas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\EditPersonas.aspx.designer.cs">
+      <DependentUpon>EditPersonas.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Forms\SignupForm.aspx.cs">
       <DependentUpon>SignupForm.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -175,6 +182,7 @@
     <Content Include="Content\photos.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Forms\EditPersonas.aspx" />
     <Content Include="Forms\SignupForm.aspx" />
     <Content Include="Forms\UploadForm.aspx" />
     <Content Include="Global.asax" />
@@ -216,7 +224,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Personas\Us.cshtml" />
     <Content Include="Views\Photos\Gallery.cshtml" />
-    <Content Include="Views\Admin\UploadPicture.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
