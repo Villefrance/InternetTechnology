@@ -17,32 +17,35 @@ namespace OurWebsite.Forms
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            
 
-            //Need to check if the file exists otherwise an exception is thrown.
-            if (System.IO.File.Exists(_path + _fileName))
+            if (Page.IsPostBack == false)
             {
-
-                using (System.IO.StreamReader sr = System.IO.File.OpenText(_path + _fileName))
+                //Need to check if the file exists otherwise an exception is thrown.
+                if (System.IO.File.Exists(_path + _fileName))
                 {
-                    string line;
-                    while ((line = sr.ReadLine()) != null)
+
+                    using (System.IO.StreamReader sr = System.IO.File.OpenText(_path + _fileName))
                     {
-                        //The format of a stored spersona is a line like: value1:value2:...  this is the reasoning for splitting by ":" 
-                        string[] protoypePersona = line.Split(':');
+                        string line;
+                        while ((line = sr.ReadLine()) != null)
+                        {
+                            //The format of a stored spersona is a line like: value1:value2:...  this is the reasoning for splitting by ":" 
+                            string[] protoypePersona = line.Split(':');
 
-                        personas.Add(new Persona() { Education = protoypePersona[0], Age = Int16.Parse(protoypePersona[1]), Description = protoypePersona[2], Name = protoypePersona[3] });
+                            personas.Add(new Persona() { Education = protoypePersona[0], Age = Int16.Parse(protoypePersona[1]), Description = protoypePersona[2], Name = protoypePersona[3] });
 
+                        }
                     }
+
                 }
 
+                Repeater1.DataSource = personas;
+                Repeater1.DataBind();
             }
-
-            Repeater1.DataSource = personas;
-            Repeater1.DataBind();
         }
+    
 
-        protected void SaveBtn_Click(object sender, EventArgs e)
+    protected void SaveBtn_Click(object sender, EventArgs e)
         {
             personas.Clear();
             foreach (RepeaterItem persona in Repeater1.Items)
@@ -57,14 +60,13 @@ namespace OurWebsite.Forms
             //Using the streamwriter to create the file and write to it...
             using (System.IO.StreamWriter sw = System.IO.File.CreateText(_path + _fileName))
             {
-                SaveBtn.Text = personas.ElementAt(0).Name;
                 foreach (Persona persona in personas)
                 {
                     sw.WriteLine(persona.Education + ":" + persona.Age + ":" + persona.Description + ":" + persona.Name);
                 }
             }
 
-            // Response.Redirect("~/Personas/Us");
+            Response.Redirect("~/Personas/Us");
         }
 
 
