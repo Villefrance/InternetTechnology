@@ -3,8 +3,18 @@
 @{
     ViewBag.Title = "Us";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    
+
 }
 
-<h2>@Model.ElementAt(0).Name <br /> @Model.ElementAt(1).Name</h2>
-
+@foreach (var persona in Model)
+{
+<div>
+    <label>Persona</label>
+    <ul>
+        <li><b>Name:</b> @persona.Name</li>
+        <li><b>Age:</b> @persona.Age</li>
+        <li><b>Description:</b> @persona.Description</li>
+        <li><b>Education:</b> @persona.Education</li>
+    </ul>
+</div>
+}

@@ -10,7 +10,7 @@ namespace OurWebsite.Controllers
     public class PersonasController : Controller
     {
         private string _path = AppDomain.CurrentDomain.BaseDirectory;
-        private string _fileName = @"\personadatabase.txt";
+        private string _fileName = @"\persona_database.txt";
 
         // GET: Personas/index
         public ActionResult Index()

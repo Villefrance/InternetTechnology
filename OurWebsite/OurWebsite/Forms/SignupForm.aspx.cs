@@ -12,7 +12,7 @@ namespace OurWebsite.Forms
     public partial class SignupForm : System.Web.UI.Page
     {
         private string _path = AppDomain.CurrentDomain.BaseDirectory;
-        private string _fileName = @"\database.txt";
+        private string _fileName = @"\newsletter_database.txt";
 
         protected void Page_Load(object sender, EventArgs e)
         {

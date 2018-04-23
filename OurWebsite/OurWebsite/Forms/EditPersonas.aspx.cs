@@ -12,7 +12,7 @@ namespace OurWebsite.Forms
     {
 
         private string _path = AppDomain.CurrentDomain.BaseDirectory;
-        private string _fileName = @"\personadatabase.txt";
+        private string _fileName = @"\persona_database.txt";
         IList<Persona> personas = new List<Persona>();
 
         protected void Page_Load(object sender, EventArgs e)
