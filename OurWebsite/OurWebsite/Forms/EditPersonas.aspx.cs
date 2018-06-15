@@ -20,6 +20,7 @@ namespace OurWebsite.Forms
 
             if (Page.IsPostBack == false)
             {
+                
                 //Need to check if the file exists otherwise an exception is thrown.
                 if (System.IO.File.Exists(_path + _fileName))
                 {
@@ -38,6 +39,7 @@ namespace OurWebsite.Forms
                     }
 
                 }
+                
 
                 Repeater1.DataSource = personas;
                 Repeater1.DataBind();
