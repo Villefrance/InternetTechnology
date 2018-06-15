@@ -125,3 +125,7 @@ E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWe
 E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.csproj.CopyComplete
 E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.dll
 E:\Dropbox (HeadIT)\Development\SDU\InternetTeknologier\InternetTechnology\OurWebsite\OurWebsite\obj\Debug\OurWebsite.pdb
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\EntityFramework.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\EntityFramework.xml
+C:\Users\Bruger\Desktop\GitHub\InternetTechnologies\InternetTechnology\OurWebsite\OurWebsite\bin\EntityFramework.SqlServer.xml

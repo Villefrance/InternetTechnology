@@ -9,8 +9,29 @@ namespace OurWebsite.Controllers
 {
     public class PersonasController : Controller
     {
-        private string _path = AppDomain.CurrentDomain.BaseDirectory;
-        private string _fileName = @"\persona_database.txt";
+        //private string _path = AppDomain.CurrentDomain.BaseDirectory;
+        //private string _fileName = @"\persona_database.txt";
+        private PersDBContext db = new PersDBContext();
+
+        public PersonasController()
+        {
+            /*
+            Persona emil = new Persona() { ID = 0, Education = "Software Engineering", Age = 23, Description = "Hello there, I like to party and make smooth tender love with my wife.", Name = "Emil" };
+            Persona kennet = new Persona() { ID = 1, Education = "Software Engineering", Age = 25, Description = "Hello there, I like to shit and EAT all day long.", Name = "Kennet" };
+
+            try
+            {
+                db.Personas.Add(emil);
+                db.Personas.Add(kennet);
+                db.SaveChanges();
+            }
+            catch
+            {
+                // Error-handling.....
+            }
+            */
+
+        }
 
         // GET: Personas/index
         public ActionResult Index()
@@ -20,9 +41,22 @@ namespace OurWebsite.Controllers
 
         public ActionResult Us()
         {
-            IList<Persona> personas = new List<Persona>();
+            IList<Persona> list = new List<Persona>();
 
-            //Need to check if the file exists otherwise an exception is thrown.
+            var personas = from p in db.Personas
+                           orderby p.ID
+                           select p;
+
+
+            //Just adding to IList to remain compatible with .txt based version
+            foreach (Persona p in personas)
+            {
+                list.Add(p);
+            }
+
+            /* File-based version...
+            
+            Need to check if the file exists otherwise an exception is thrown.
             if (System.IO.File.Exists(_path + _fileName))
             {
 
@@ -40,13 +74,15 @@ namespace OurWebsite.Controllers
                 }
 
             }
+           */
 
-
-            //Persona emil = new Persona() { Education = "Software Engineering", Age = 23, Description = "Hello there, I like to party and make smooth tender love with my wife.", Name = "Emil" };
-            //Persona kennet = new Persona() { Education = "Software Engineering", Age = 25, Description = "Hello there, I like to shit and EAT all day long.", Name = "Kennet" };
-            //personas.Add(emil);
-            //personas.Add(kennet);
-            return View(personas);
+            /*
+            Persona emil = new Persona() { Education = "Software Engineering", Age = 23, Description = "Hello there, I like to party and make smooth tender love with my wife.", Name = "Emil" };
+            Persona kennet = new Persona() { Education = "Software Engineering", Age = 25, Description = "Hello there, I like to shit and EAT all day long.", Name = "Kennet" };
+            personas.Add(emil);
+            personas.Add(kennet);
+            */
+            return View(list);
         }
     }
 }
